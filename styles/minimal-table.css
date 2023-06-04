@@ -3,7 +3,7 @@
 
 font-family: sans-serif;
 padding-left: 11em;
-   font-family: Arial, sans-serif;
+   font-family: "Courier New", monospace;
 		  color: white;
     background-color: #F87371 }
 	  ul.navbar {
@@ -15,7 +15,7 @@ padding-left: 11em;
     left: 1em;
     width: 9em }
 	h1 {
-  font-family: Arial, sans-serif }
+  font-family: "Courier New", monospace }
 ul.navbar li {
   background: white;
   margin: 0.5em 0;
@@ -24,9 +24,9 @@ ul.navbar li {
 ul.navbar a {
   text-decoration: none }
 a:link {
-  color: white }
+  color: #F87371 }
 a:visited {
-  color: white }
+  color: #F87371 }
 address {
   margin-top: 1em;
   padding-top: 1em;
@@ -49,6 +49,7 @@ th {
 
 td {
   text-align: center;
+color: #F87371;
 }
 
 tr:nth-child(even) td {
